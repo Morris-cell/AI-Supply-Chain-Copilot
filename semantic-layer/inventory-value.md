@@ -1,10 +1,10 @@
 # Inventory Value
 
-Definition
+## Definition
 
 Monetary value of inventory.
 
-Possible Field Names
+## Possible Field Names
 
 inventory_value
 stock_value
@@ -12,11 +12,11 @@ stock_amt
 inventory_cost
 on_hand_value
 
-Data Type
+## Data Type
 
 Currency
 
-Related KPIs
+## Related KPIs
 
 Inventory Turnover
 DIO
