@@ -1,21 +1,21 @@
 # Cost of Goods Sold
 
-Definition
+## Definition
 
 Direct cost associated with sold products.
 
-Possible Field Names
+## Possible Field Names
 
 cogs
 material_cost
 cost_amount
 total_cost
 
-Data Type
+## Data Type
 
 Currency
 
-Related KPIs
+## Related KPIs
 
 Inventory Turnover
 Gross Margin
