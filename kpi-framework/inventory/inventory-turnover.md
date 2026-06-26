@@ -68,3 +68,33 @@ Optional Dimensions:
 - Warehouse
 - Business Unit
 - Month
+
+## Analysis Dependencies
+
+### Previous Analysis
+
+This KPI is usually the starting point of inventory performance analysis.
+
+No prerequisite KPI is required.
+
+### Current Analysis
+
+Evaluate how efficiently inventory is converted into sales.
+
+### Next Analysis
+
+If Inventory Turnover decreases:
+
+* Calculate DIO
+* Analyze Inventory Aging
+* Identify Slow Moving SKUs
+* Review Forecast Accuracy
+* Review Purchasing Policy
+
+### Trigger Conditions
+
+Proceed to further analysis when:
+
+* Inventory Turnover decreases significantly
+* Inventory Turnover is below industry benchmark
+* Inventory value continues increasing
