@@ -89,3 +89,30 @@ Optional Dimensions:
 - Supplier
 - Month
 - Quarter
+
+## Analysis Dependencies
+
+### Previous Analysis
+
+* Inventory Turnover
+
+### Current Analysis
+
+Measure the average number of days inventory remains in stock.
+
+### Next Analysis
+
+If DIO increases:
+
+* Analyze Inventory Aging
+* Identify Slow Moving SKUs
+* Review Inventory Value Distribution
+* Analyze Warehouse Performance
+
+### Trigger Conditions
+
+Proceed when:
+
+* DIO exceeds company target
+* DIO continues increasing
+* Inventory carrying cost rises

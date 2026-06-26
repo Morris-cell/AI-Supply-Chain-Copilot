@@ -71,3 +71,30 @@ Lower percentage of aged inventory indicates:
 * Fill Rate
 * Forecast Accuracy
 * Stockout Rate
+
+## Analysis Dependencies
+
+### Previous Analysis
+
+* Inventory Turnover
+* DIO
+
+### Current Analysis
+
+Identify aged inventory and obsolete stock.
+
+### Next Analysis
+
+If aged inventory is high:
+
+* Identify affected SKUs
+* Analyze Sales History
+* Review Product Lifecycle
+* Review Procurement Decisions
+
+### Trigger Conditions
+
+Proceed when:
+
+* Inventory older than 90 days exceeds target
+* Inventory older than 180 days increases
