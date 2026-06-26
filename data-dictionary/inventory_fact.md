@@ -22,3 +22,9 @@ Warehouse Location
 
 Business Meaning:
 Inventory Snapshot Date
+
+## receipt_date
+
+Business Meaning:
+
+Inventory Receipt Date
