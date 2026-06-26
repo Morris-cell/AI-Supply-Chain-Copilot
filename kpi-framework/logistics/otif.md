@@ -68,3 +68,32 @@ Lower OTIF indicates:
 * Perfect Order Rate
 * Inventory Turnover
 * Forecast Accuracy
+
+## Analysis Dependencies
+
+### Previous Analysis
+
+* Inventory Availability
+* Fill Rate
+
+### Current Analysis
+
+Evaluate whether customer orders are delivered on time and in full.
+
+### Next Analysis
+
+If OTIF decreases:
+
+* Analyze On-Time Delivery (OTD)
+* Analyze Fill Rate
+* Review Inventory Availability
+* Review Carrier Performance
+* Review Warehouse Performance
+
+### Trigger Conditions
+
+Proceed when:
+
+* OTIF falls below target.
+* Customer complaints increase.
+* Late or partial deliveries become more frequent.
