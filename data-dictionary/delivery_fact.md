@@ -36,3 +36,13 @@ Delivered Quantity
 
 Semantic Concept:
 Delivered Quantity
+
+## order_date
+
+Business Meaning:
+
+Customer Order Creation Date
+
+Semantic Concept:
+
+Order Date
