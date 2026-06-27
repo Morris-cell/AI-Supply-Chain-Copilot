@@ -25,3 +25,19 @@ Goods Receipt Date
 
 Semantic Concept:
 Goods Receipt Date
+
+## promised_delivery_date
+
+Business Meaning:
+Supplier Promised Delivery Date
+
+Semantic Concept:
+Promised Delivery Date
+
+## goods_receipt_date
+
+Business Meaning:
+Goods Receipt Date
+
+Semantic Concept:
+Goods Receipt Date
