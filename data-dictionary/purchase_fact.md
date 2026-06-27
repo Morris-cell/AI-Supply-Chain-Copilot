@@ -41,3 +41,19 @@ Goods Receipt Date
 
 Semantic Concept:
 Goods Receipt Date
+
+## received_qty
+
+Business Meaning:
+Quantity Received from Supplier
+
+Semantic Concept:
+Received Quantity
+
+## defective_qty
+
+Business Meaning:
+Quantity Failed Quality Inspection
+
+Semantic Concept:
+Defective Quantity
